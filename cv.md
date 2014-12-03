@@ -15,7 +15,7 @@ cv: True
 - [hollister.jeff@epa.gov](hollister.jeff@epa.gov)
 - [jwhollister.com](http://jwhollister.com)
 
-<div id="cv-nav">
+<div id="cv-nav" markdown="1">
 
 - [Education](#education)
 - [Research](#research)
