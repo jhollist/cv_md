@@ -1,9 +1,9 @@
 # Site settings
 title: Markdown CV Template
 email: jeff.w.hollister@gmail.com
-description: 
+description: CV Template
 baseurl: "/cv_md/" # the subpath of your site, e.g. /blog/
-url: "http://jwhollister.com""
+url: "http://jwhollister.com"
 twitter_username: jhollist
 github_username:  jhollist
 
